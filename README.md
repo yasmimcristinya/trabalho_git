@@ -1,0 +1,1 @@
+Trabalho proposto pelo professor Daniel Macedo, com o intuito de aprendermos a gerenciar repositórios. Primeiro foi criado um arquivo olá mundo e foi feito 2 alterações. logo após, foi criado um outro arquivo chamado .gitignore com a configuração para ignorar qualquer arquivo com a extensão.png
